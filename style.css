@@ -1,0 +1,65 @@
+body {
+    background: #EBEBEB;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    color: #7d7d7d;
+    font-size: 15px;
+    line-height: 1.6em;
+}
+h1, h2, h3 {
+  font-family: 'Montserrat', sans-serif;
+}
+h2 {
+  font-size: 18px;
+  font-weight: 300;
+}
+table {
+  font-weight: 300;
+  font-size: 15px;
+  line-height: 1.6em;
+}
+a {
+    color: #ccc;
+    text-decoration: none;
+}
+a:hover {
+    color: #DD5555;
+    text-decoration: none;
+}
+ul {
+  text-decoration: none;
+}
+#image_ronde {
+  width: 150px;
+  border-radius: 50%;
+  border: 1px solid lightgrey;
+}
+.image_films {
+  width: 100px;
+}
+.image_musiciens {
+  width: 150px;
+}
+.container {
+  width: 700px;
+  margin: 30px auto;
+}
+.card {
+  background: white;
+  padding: 30px;
+  margin-bottom: 20px;
+  border-radius: 4px;
+  box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.2);
+}
+.text-center {
+  text-align: center;
+}
+.card ul {
+  padding-left: 0;
+  list-style: none;
+}
+.card li {
+  display: inline-block;
+  padding: 0 25px;
+
+}
